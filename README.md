@@ -2,6 +2,9 @@
 
 Popx-App is a sleek, responsive web application built with React and TypeScript that provides a seamless user account management experience. The platform features an intuitive interface for user registration, authentication, and profile management.
 
+[GitHub Repository](https://github.com/sharmaHarshit2000/popx-app) 
+[Live (Vercel)](https://popx-app-ten.vercel.app) 
+
 ## 🌟 Features
 
 - **Streamlined User Experience**: Clean, modern UI with intuitive navigation
